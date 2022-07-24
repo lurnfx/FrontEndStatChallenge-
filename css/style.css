@@ -17,6 +17,8 @@ body {
   max-width: 1025px;
   max-height: 725px;
   margin: 0 auto;
+  border-radius: 15px;
+  overflow: hidden;
 }
 
 .card {
